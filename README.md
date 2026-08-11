@@ -18,8 +18,7 @@ ColdGuard is an IoT-based Cold Storage Monitoring System developed using the LPC
 ---
 
 ## 📷 Block Diagram
-
-
+![Block Diagram](Block%20Diagram.jpeg)
 ---
 
 ## 🛠 Hardware Requirements
